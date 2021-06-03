@@ -1,4 +1,4 @@
-<style>
+<!--style>
     table {
         table-layout: fixed;
     }
@@ -20,7 +20,7 @@
     .repo-desc {
         width: 50%;
     }
-</style>
+</style-->
 
 # <!--My Corrupt Junta Military -->Badges
 
