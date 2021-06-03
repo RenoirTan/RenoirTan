@@ -1,3 +1,22 @@
+<style>
+    table {
+        table-layout: fixed;
+    }
+
+    th, td {
+        overflow-wrap: break-word;
+        padding: 5px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #333333;
+    }
+    
+    .repo-desc {
+        width: 50%;
+    }
+</style>
+
 # <!--My Corrupt Junta Military -->Badges
 
 > If there is a badge that I haven't noticed yet, I will find it.
@@ -17,12 +36,12 @@ Oh my favourite colour is violet, how could you tell?
 
 <p align="center">
     <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true"/>
+        <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
     </a>
     <br>
     <br>
     <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&langs_count=10"/>
+        <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&langs_count=10">
     </a>
 </p>
 
@@ -32,7 +51,7 @@ Oh my favourite colour is violet, how could you tell?
 
 <p align="center">
     <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=dracula">
+        <img align="center" alt="owo much trophies" src="https://github-profile-trophy.vercel.app/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=dracula">
     </a>
 </p>
 
@@ -42,21 +61,49 @@ Oh my favourite colour is violet, how could you tell?
 
 <p align="center">
     <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=RenoirTan.RenoirTan">
+        <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RenoirTan.RenoirTan">
     </a>
 </p>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RenoirTan.RenoirTan)
 
 ### <!--Nuclear Football --> Red Buttons
 
 <p align="center">
     <a href="https://github.com/RenoirTan" style="margin: 20px 5px;">
-        <img align="center" src="https://img.shields.io/github/followers/RenoirTan?label=Follow&style=flat-square&color=blueviolet">
+        <img align="center" alt="Follow ples" src="https://img.shields.io/github/followers/RenoirTan?label=Follow&style=flat-square&color=blueviolet">
     </a>
     <a href="https://github.com/RenoirTan" style="margin: 20px 5px;">
-        <img align="center" src="https://img.shields.io/github/stars/RenoirTan?label=Stars&style=flat-square&color=blueviolet">
+        <img align="center" alt="Star" src="https://img.shields.io/github/stars/RenoirTan?label=Stars&style=flat-square&color=blueviolet">
     </a>
+    <a href="https://stackoverflow.com/users/12200090/renoir-tan" style="margin: 20px 5px;">
+        <img align="center" alt="Follow ples" src="https://img.shields.io/badge/Stack_Overflow-000000?style=flat-square&color=9057A3&logo=stack-overflow">
+    </a>
+</p>
+
+## Things I'm somewhat proud of
+
+<p align="center">
+    <table style="width: 80%;">
+        <tr>
+            <th colspan="2">
+                <a href="https://github.com/RenoirTan/liver">
+                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=liver&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
+                </a>
+            </th>
+            <th class="repo-desc">
+                <p>My own VS Code theme heavily inspired by the Horizon theme. GitHub erroneously detects it as a C++ repo because of the sample code I wrote for screenshots.</p>
+            </th>
+        </tr>
+        <tr>
+            <th colspan="2">
+                <a href="https://github.com/RenoirTan/Y3-CEP-Final-Project-Christopher-Renoir">
+                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=Y3-CEP-Final-Project-Christopher-Renoir&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
+                </a>
+            </th>
+            <th class="repo-desc">
+                <p>A website my friend and I did as part of our end-of-year project. I did the front-end.</p>
+            </th>
+        </tr>
+    </table>
 </p>
 
 <!--
