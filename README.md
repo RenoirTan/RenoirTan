@@ -6,10 +6,15 @@
     th, td {
         overflow-wrap: break-word;
         padding: 5px;
+        text-align: left;
     }
 
     tr:nth-child(even) {
         background-color: #333333;
+    }
+
+    .repo-button {
+        width: 40%;
     }
     
     .repo-desc {
@@ -84,7 +89,7 @@ Oh my favourite colour is violet, how could you tell?
 <p align="center">
     <table style="width: 80%;">
         <tr>
-            <th colspan="2">
+            <th colspan="2" class="repo-button">
                 <a href="https://github.com/RenoirTan/liver">
                     <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=liver&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
                 </a>
@@ -94,7 +99,7 @@ Oh my favourite colour is violet, how could you tell?
             </th>
         </tr>
         <tr>
-            <th colspan="2">
+            <th colspan="2" class="repo-button">
                 <a href="https://github.com/RenoirTan/Y3-CEP-Final-Project-Christopher-Renoir">
                     <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=Y3-CEP-Final-Project-Christopher-Renoir&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
                 </a>
