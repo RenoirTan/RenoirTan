@@ -108,6 +108,16 @@ Oh my favourite colour is violet, how could you tell?
                 <p>A website my friend and I did as part of our end-of-year project. I did the front-end.</p>
             </th>
         </tr>
+        <tr>
+            <th colspan="2" class="repo-button">
+                <a href="https://github.com/RenoirTan/dunjudge.me">
+                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=dunjudge.me&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
+                </a>
+            </th>
+            <th class="repo-desc">
+                <p>Solutions for some of the problem statements on dunjudge.me. NOTE: Some of thme don't work. Once again, I managed to somehow mess up the .gitignore so that Github thinks this is an Assembly repository.</p>
+            </th>
+        </tr>
     </table>
 </p>
 
