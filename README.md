@@ -115,7 +115,7 @@ Oh my favourite colour is violet, how could you tell?
                 </a>
             </th>
             <th class="repo-desc">
-                <p>Solutions for some of the problem statements on dunjudge.me. NOTE: Some of thme don't work. Once again, I managed to somehow mess up the .gitignore so that Github thinks this is an Assembly repository.</p>
+                <p>Solutions for some of the problem statements on dunjudge.me. I think this repository is almost entirely responsible for C++ being in my top 2 most used languages./p>
             </th>
         </tr>
     </table>
