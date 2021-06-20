@@ -41,12 +41,12 @@ Oh my favourite colour is violet, how could you tell?
 
 <p align="center">
     <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
+        <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=ffffff&icon_color=53e2ed">
     </a>
     <br>
     <br>
     <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&langs_count=10">
+        <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=ffffff&icon_color=53e2ed">
     </a>
 </p>
 
@@ -74,13 +74,13 @@ Oh my favourite colour is violet, how could you tell?
 
 <p align="center">
     <a href="https://github.com/RenoirTan" style="margin: 20px 5px;">
-        <img align="center" alt="Follow ples" src="https://img.shields.io/github/followers/RenoirTan?label=Follow&style=flat-square&color=blueviolet">
+        <img align="center" alt="Follow ples" src="https://img.shields.io/github/followers/RenoirTan?label=Followers&style=flat-square&color=blueviolet">
     </a>
     <a href="https://github.com/RenoirTan" style="margin: 20px 5px;">
         <img align="center" alt="Star" src="https://img.shields.io/github/stars/RenoirTan?label=Stars&style=flat-square&color=blueviolet">
     </a>
     <a href="https://stackoverflow.com/users/12200090/renoir-tan" style="margin: 20px 5px;">
-        <img align="center" alt="Follow ples" src="https://img.shields.io/badge/Stack_Overflow-000000?style=flat-square&color=9057A3&logo=stack-overflow">
+        <img align="center" alt="Stemck Omverfluw" src="https://img.shields.io/badge/Stack_Overflow-000000?style=flat-square&color=9057A3&logo=stack-overflow">
     </a>
 </p>
 
@@ -91,7 +91,7 @@ Oh my favourite colour is violet, how could you tell?
         <tr>
             <th colspan="2" class="repo-button">
                 <a href="https://github.com/RenoirTan/liver">
-                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=liver&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
+                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=liver&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=ffffff&icon_color=53e2ed">
                 </a>
             </th>
             <th class="repo-desc">
@@ -101,7 +101,7 @@ Oh my favourite colour is violet, how could you tell?
         <tr>
             <th colspan="2" class="repo-button">
                 <a href="https://github.com/RenoirTan/Y3-CEP-Final-Project-Christopher-Renoir">
-                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=Y3-CEP-Final-Project-Christopher-Renoir&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
+                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=Y3-CEP-Final-Project-Christopher-Renoir&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=ffffff&icon_color=53e2ed">
                 </a>
             </th>
             <th class="repo-desc">
@@ -111,7 +111,7 @@ Oh my favourite colour is violet, how could you tell?
         <tr>
             <th colspan="2" class="repo-button">
                 <a href="https://github.com/RenoirTan/dunjudge.me">
-                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=dunjudge.me&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true">
+                    <img align="center" alt="liver" src="https://github-readme-stats.vercel.app/api/pin/?username=RenoirTan&repo=dunjudge.me&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=ffffff&icon_color=53e2ed">
                 </a>
             </th>
             <th class="repo-desc">
