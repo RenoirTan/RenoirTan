@@ -46,7 +46,7 @@ Oh my favourite colour is violet, how could you tell?
     <br>
     <br>
     <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=ffffff&icon_color=53e2ed">
+        <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoirTan&show_icons=true&count_private=true&margin-w=20&margin-h=25&theme=material-palenight&show_icons=true&langs_count=10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=ffffff&icon_color=53e2ed">
     </a>
 </p>
 
