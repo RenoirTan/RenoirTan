@@ -25,7 +25,6 @@
 # <!--My Corrupt Junta Military -->Badges
 
 > If there is a badge that I haven't noticed yet, I will find it.
-> ~ *Ranboo (Adapted... Possibly)*
 
 This is where I nail all the shields I can possibly scrounge out like
 a jewellery-stealing magpie.
