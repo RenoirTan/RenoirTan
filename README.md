@@ -120,6 +120,8 @@ Oh my favourite colour is violet, how could you tell?
     </table>
 </p>
 
+<!-- Testing Git Credential Manager -->
+
 <!--
 **RenoirTan/RenoirTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
