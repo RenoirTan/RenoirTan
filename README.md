@@ -86,7 +86,7 @@ Oh my favourite colour is violet, go check out my
             <img align="center" alt="Star" src="https://img.shields.io/github/stars/RenoirTan?label=Stars&style=for-the-badge&color=blueviolet">
         </a>
         <a href="https://stackoverflow.com/users/12200090/renoir-tan" style="margin: 20px 2px;">
-            <img align="center" alt="Stemck Omverfluw" src="https://img.shields.io/github/followers/RenoirTan?label=Followers&style=for-the-badge&color=blueviolet">
+            <img align="center" alt="Stemck Omverfluw" src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&color=blueviolet&logo=stack-overflow">
         </a>
     </p>
 </div>
