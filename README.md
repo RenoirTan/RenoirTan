@@ -99,7 +99,7 @@ If there is a badge that I haven't noticed yet, I will find it.
         </a>
     </p>
 <hr style="width:100%; height:5px; background-color: #d24dff; border:none;" />
-    <h3 align="center"><b>My Best Projects</b></h3>
+    <h3 align="center"><b>Highlighted Projects</b></h3>
     <table style="width: 90%;" align="center">
         <tr>
             <th colspan="2" class="repo-button">
