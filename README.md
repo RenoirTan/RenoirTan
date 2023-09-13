@@ -24,14 +24,14 @@
 
 Check out my [vscode theme](https://github.com/RenoirTan/liver) now!
 
-# <!--My Corrupt Junta Military -->Badges
+# Badges
 
 This is where I nail all the shields I can possibly scrounge out like
 a jewellery-stealing magpie.
 
 If there is a badge that I haven't noticed yet, I will find it.
 
-## ___<!--Inner Circle -->Medals___
+## ___Medals___
 
 *Big Shiny Gold Circles!*
 
@@ -47,7 +47,7 @@ If there is a badge that I haven't noticed yet, I will find it.
     </a>
 </p>
 
-## *<!--Senior Officer -->Tokens*
+## *Tokens*
 
 *Tiny Silver Coins...*
 
@@ -57,15 +57,9 @@ If there is a badge that I haven't noticed yet, I will find it.
     </a>
 </p>
 
-## *<!--Junior Officer -->Pins*
+## *Pins*
 
 *Pretty colours*
-
-<!--p align="center">
-    <a href="https://github.com/RenoirTan" style="margin: 20px;">
-        <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RenoirTan.RenoirTan">
-    </a>
-</p-->
 
 <hr style="width:100%; height:5px; background-color: #794dff; border:none;" />
 <div>
